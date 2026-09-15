@@ -30,7 +30,7 @@ Puedes incluir **FlatyFastPages** directamente en tu proyecto usando la CDN de [
 ### Producción (Recomendado - Minificado)
 
 ```html
-<script src="[https://cdn.jsdelivr.net/gh/clonicdev/flafyfastpages@v0.1.0/flatyfastpages.min.js](https://cdn.jsdelivr.net/gh/clonicdev/flafyfastpages@v0.1.0/flatyfastpages.min.js)"></script>
+<script src="https://cdn.jsdelivr.net/gh/clonicdev/flafyfastpages@v0.1.0/flatyfastpages.min.js"></script>
 ```
 
 ## Configuración rápida
