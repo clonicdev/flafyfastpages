@@ -23,6 +23,16 @@ Sube `flatyfastpages.js` a tu proyecto e inclúyelo antes de cerrar `</body>`:
 
 Con esto ya funciona, usando la configuración por defecto (ver tabla abajo). **No es obligatorio configurar nada.**
 
+## Instalación / CDN
+
+Puedes incluir **FlatyFastPages** directamente en tu proyecto usando la CDN de [jsDelivr](https://www.jsdelivr.com/):
+
+### Producción (Recomendado - Minificado)
+
+```html
+<script src="[https://cdn.jsdelivr.net/gh/clonicdev/flafyfastpages@v0.1.0/flatyfastpages.min.js](https://cdn.jsdelivr.net/gh/clonicdev/flafyfastpages@v0.1.0/flatyfastpages.min.js)"></script>
+```
+
 ## Configuración rápida
 
 Si quieres personalizar el comportamiento, agrega otro `<script>` inmediatamente después, llamando a `FlatyFastPages.init()`:
